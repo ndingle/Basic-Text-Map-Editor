@@ -1,0 +1,9 @@
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\bin\Debug\TextMapEditor.exe
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\bin\Debug\TextMapEditor.pdb
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\bin\Debug\TextMapEditor.xml
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\obj\x86\Debug\TextMapEditor.frmMain.resources
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\obj\x86\Debug\TextMapEditor.Resources.resources
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\obj\x86\Debug\TextMapEditor.vbproj.GenerateResource.Cache
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\obj\x86\Debug\TextMapEditor.exe
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\obj\x86\Debug\TextMapEditor.xml
+D:\Dropbox\Projects\VB\Class Programs\TextMapEditor\TextMapEditor\obj\x86\Debug\TextMapEditor.pdb
